@@ -27,9 +27,9 @@ Revisiting the simple pendulum, now as an ODE solved using `scipy.integrate.solv
 Example of problem solving which reviews many things we have learned.  Here we analyze how to calculate the mass of a star from tabulated data.  This implements the analytic work performed in class.
 - **Arrays_Vectors.ipynb**:
 An introduction to linear algebra but with a focus more on how we represent vectors in NumPy using arrays.  There are important differences between vectors (and matrices) and arrays. We also briefly discuss the Newton-Raphson method.
-<!--
 - **Linear_Equations.ipynb**:
 An introduction to solving systems of linear equations using functions from scipy.
+<!--
 - **Eigenvalues.ipynb**:
 Eigenvalue problem are prevalent in many branches of physics. In classical mechanics they aid in finding the principle axes of rotating bodies and in finding the normal modes of oscillating systems. In quantum mechanics the time independent Schrödinger equation **is** an eigenvalue problem! Here we get a little practice using functions from `scipy.linalg` for solving these types of problems.
 - **Curve_Fitting.ipynb**:
