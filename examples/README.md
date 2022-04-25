@@ -35,7 +35,7 @@ Eigenvalue problem are prevalent in many branches of physics. In classical mecha
 Parameter estimation from the least squares fitting of data to a model is a standard way in which theories are compared to experiments. Here we study some of the basics of using the chi squared for such a purpose.
 - **Random.ipynb**:
 An introduction to random numbers.  Examples include the transformation method and Monte Carlo integration.
-<!--
 - **Chutes_Ladders.ipynb**:
 An example of analyzing a children's game as a Markov process.
+<!--
 -->
